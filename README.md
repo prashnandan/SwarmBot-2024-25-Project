@@ -1,7 +1,7 @@
 # Swarm Bots Simulation Phase
 
 <p align="center">
-  <img src="images/bot_image.png" alt="Swarm Bot" width="250"/>
+  <img src="images/bot_image.png" alt="Swarm Bot" width="375"/>
 </p>
 
 A ROS 2-based simulation of swarm robotics using three omni-wheel robots coordinated through ArUco marker detection. This phase of the project focuses on software simulation, localization, and synchronized movement using PID controllers.
@@ -73,7 +73,7 @@ Swarm robotics focuses on the coordinated movement of multiple robots to achieve
 - Fully simulated swarm behavior with localization and synchronization.
 
 <p align="center">
-  <img src="images/bot_simulation.png" alt="Swarm Bot" width="250"/>
+  <img src="images/bot_simulation.png" alt="Swarm Bot" width="500"/>
 </p>
 
 ---
