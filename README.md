@@ -84,3 +84,35 @@ Swarm robotics focuses on the coordinated movement of multiple robots to achieve
 - ROS 2 Humble installed
 - Gazebo installed and configured
 - Python3 & OpenCV installed
+
+## Source Code
+
+
+## Video Link
+
+
+
+
+## Problems Faced:
+
+1. ROS and Gazebo setup gave us many errors like the grub menu won't show after complete installation and after every system update ubuntu won't open due to some permission changes.
+2. While building ROS2 workspace, we got colcon stderr output a number of times, which would get resolved after degrading the ROS2 version.
+3. 
+
+## Resources:
+
+1. Open CV resources: https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR
+2. Python tutorials: https://docs.python.org/3/tutorial/index.html
+3. ROS2 installation: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+4. Official ROS documentation: https://www.ros.org/
+5. ROS2 Introduction: https://www.youtube.com/live/l95tsyyEirA
+6. ROS2 Tutorials: https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy
+7. Linux Basic Commands: https://www.youtube.com/watch?v=4IIlZRabmV8
+8. Shell scripting: https://www.youtube.com/watch?v=M6nZpfIIFEM
+9. Aruco Marker: https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html, https://www.youtube.com/watch?v=lqehYezCqUM
+
+## Contributors:
+
+1. Mayank Kumar
+2. Ojaswi Shukla
+3. Prashansa Nandan
