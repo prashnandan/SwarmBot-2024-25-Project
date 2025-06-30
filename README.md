@@ -85,19 +85,15 @@ Swarm robotics focuses on the coordinated movement of multiple robots to achieve
 - Gazebo installed and configured
 - Python3 & OpenCV installed
 
-## Source Code
-
 
 ## Video Link
-
-
+https://drive.google.com/file/d/1mWhQUsPVGgAy57WM2FQr_xfQk8_H03cZ/view?usp=sharing
 
 
 ## Problems Faced:
 
 1. ROS and Gazebo setup gave us many errors like the grub menu won't show after complete installation and after every system update ubuntu won't open due to some permission changes.
 2. While building ROS2 workspace, we got colcon stderr output a number of times, which would get resolved after degrading the ROS2 version.
-3. 
 
 ## Resources:
 
